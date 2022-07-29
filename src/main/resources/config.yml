@@ -1,0 +1,17 @@
+language:
+  lucky-block-placed: "&a[&l!&a] &7You placed a lucky block."
+  lucky-block-broken: "&a[&l!&a] &7You broke a lucky block."
+lucky-blocks:
+  common:
+    block-type: GREEN_STAINED_GLASS
+    rewards:
+      0:
+        weight: 100
+        actions:
+          - "say HI!"
+    item:
+      name: "&a&lCOMMON &f&lLucky Block"
+      material: GREEN_STAINED_GLASS
+      lore:
+        - "&7&oPlace this block and break it"
+        - "&7&oto receive great rewards!"

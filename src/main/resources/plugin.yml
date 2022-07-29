@@ -1,0 +1,4 @@
+name: Animated Luckyblocks
+version: '${project.version}'
+main: it.thundyy.animatedluckyblocks.LuckyBlockPlugin
+api-version: 1.19
